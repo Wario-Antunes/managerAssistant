@@ -1,0 +1,8 @@
+Requesitos:
+    ISO - UK layout
+    Full-size
+    Mecanico
+    usb c
+    wireless
+    3D printed case 
+    with PCB

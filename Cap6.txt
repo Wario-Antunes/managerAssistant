@@ -1,0 +1,281 @@
+Notes capitulo 6
+
+Responsabilidades de um gestor (manager)
+Set agoal for where the organization or departmnet should go in the future and plan how to get there
+
+POLC -> the four management functions
+Planning Umas das mais importantes porque tudo o resto depende do planeamento
+Organizing
+Leading
+Controlling
+
+STrategic thinking -> long term view and look at the biugger picture
+organization and competitive enviroment and how it all fits together
+Strategic management -> decisions and actions used to formualte and execute strategies that will provide the competitively superior fit between the organizatiopn and its enviroment so as to achieve organizational goals
+
+Visao (where are we going):
+	Preocupase com o futuro da organizacao
+	Qual e a direcao a longo prazo
+		Que mercados proseguir, quais os produtos, tecnologias, clientes, tipo de organizacao para usar
+	Comunica aspiracoes da visao da gestao de topo aos stakeholders
+	Orientar os esforcos dos colaboradores numa direcao comum
+	Usa linguamgem especifica e distinta para diferencias da competicao
+
+Missao (who we are and what we do):
+	Centra-e no presente
+		Produtos e servicoes atualmente oferecidos
+		Area geografica onde a empresa atua
+		Necessidades dos clinetes que estao a ser servidos
+
+Objetivo (how will we get there):
+	Converter a visao em alvos de desempenho especificos
+	Necassario para todos os niveis da organizacao
+		Para cada unidade de negocio, departamento funcional, unidades operacionais...
+	Decididos atraves de top-down
+		Colaboracao entre niveis paa garantir que objetivos dos niveis inferiores suportamn os objetivos dos niveis superiores
+	Objetivos bem definidos:
+		Smart
+			Specific, measurable, achievable relevant, time-related
+		Quantificaveis, measuraveis e com um prazo para serem atingidos
+		Longo prazo e curto prazo
+
+6.2 Analise para a formulacao da estrategia 
+
+Analise externa:
+	Identificar os principais desenvolvimentos que existem no exterior da organizacao e que afetam a organizacao
+		Afetam em formato de oportunidades e ameacas
+Analise interna:
+	Estudo do ambiente interno da organizacao
+	Identificar pontos fortes e fracos
+Principais forcas, fraquezas, oportunidades e ameacas podem ser agrupadas numa swot matrix
+	Strenght Weaknesses, Opportunities and Threats
+
+Envolvente Geral:
+	Tudo de fora que afeta indiretamente
+		Tecnologia, Socio-cultural, internacional, Legal/politica, economica
+Envolvente transacional:
+	Tudo de fora que afeta diretamanete
+		Clientes, mercado de trabalho, fornecedores, concorrentes
+
+Envolvente Geral:
+	Interagem com todas as organizacoes da mesma area de atividades
+		Empresas nao conseguem influenciar
+	Fatores PESTL
+		Politicos, economicos, socio culturais/demograficos, tecnologicos e legais
+	Nao esquecer de fatores tipo: Ecologia, ambiente, sustentabilidade
+PESTL:
+	Politico-Legal:
+		Politicas economicas
+		Ligislacao (fiscal, laboral, risco politco, estabilidade politica)
+	Fatores econimicos:
+		Nivel de desenvolvimentos e crescimento economico 
+			PIB, PIB/capita
+		Taxas de cambio
+		Inflacao
+		Taxas de juros
+	Ambiente socio-cultural e Demograficos:
+		Cultura
+			Valores, renac , conviccoes, comportamentos partilhados por uma sociedade
+			Inclui elementos tipo:
+				Lingua, religiao, organizacao cultural, educacao, historia
+	Tecnologia:
+		Informacao e eletronica
+		Projeto (CAD, CAM....)
+		Planeamento (ERP)
+		Automacao robotizacao
+
+Envolvente Transacional
+	Entidades que interagem diretamente com a organizacao
+	Influencia reciproca em variados graus
+		Clientes, concorrentes, fornecedores ....
+Clientes:
+	Individuais ou organizacoes
+	Adquirem bens e/ou servicos
+	Razao de existencia de uma organizacao
+	Sao atraidos pelo o valor oferecido pela organizacao
+		Atraves da estrategia/marketing adequados
+Concorrentes
+	Organizacoes que oferecem no mesmo mercado o mesmo bem/valor para o cliente
+	Concorrem tambem no mercado de trabalho e no mercado de fornecedores
+	Classificados por:
+		Intra-tipo:
+			Empresas que concorrem com o mesmo tipo de bem ou servico
+		Inter-tipo:
+			Empresas que fornecem um produto substituto para fornecimento do mesmo bem/valor
+				Transportes: Ferroviario vs rodoviario vs aereo vs nautico...
+				Leitura: Livros vs Ebooks...
+				Energia Eletrica: Hidrica vs Termica vs Solar...
+Fornecedores:	
+	Materias (materia prima, componentes), equipamento, energia, servico, fundos (financeiros)
+	Podem afetar a qualidade, custo e orazo de entrega do produto/servico oferecido pela a organizacao
+		Preco (nivel e variabilidade)
+		Materiais/servico de baixa qualidade
+		Crises financeiras do fornecedors
+		Problemas laborais
+		Problemas na cadeia de abastecimento
+
+
+Modelo das 5 forcas de Porter
+	Uma analise a uma industria/sector d eatividade
+		COnjunto de empreass que produzem produtos e que sao concorrentes diretos
+	Intensidade da competicao numa industria assim como o potencial lucro dessa industria e funcao de 5 forcas competitivas
+	Produtos substituos (de outos sector ou atividade)
+	Poder negocial dos clientes
+		competicao na area, quanto o cliente depende da organizacao e organizacao do cliente
+	Poder negocial dos fornecedores
+		Quanto depemdemos do fornecedores, quanto fornecedores ha...
+	Potencial entrada de novos concorrentes (no nosso sector de atividade)
+		Patentes, exigencias de capital, economias de escala...
+
+Como se mede atratividade do sector de atividade
+	1) analisar cada uma das 5 forcas competitivas
+		Maior competicao interna -> menores lucro
+		Maior facilidade de entrada de firmas de outras industrias assi como disponibilidade de produtos -> precos mais baixo menores lucros 
+		Existencia de um pequeno grupo de fornecedores e cleintes -> subir os custos dos inputs -> descer lucros da industria
+	2) Caracterizar a intensidade de cada forca competitiva
+		1 -> 5 sendo 5 muito forte
+	3) Somatorio das 5 orcas indica se o sector e atrativo ou nao
+		Valor igual ou proximo de 25 SETOR NAO ATRATIVO
+		Valor igual ou proximo de 5 SETOR ATRATIVO
+
+Analise Interna
+	Levantamento dos recursos, capacidades e competencias da organizacao com o objetivo de identificar o que esta ao alcance da organizacao fazer
+
+	Recursos:
+		Fisicos, financeiros, humanos, organizacionais reputacionais
+	Capacidades:
+		Capacidade para integrar os recursos de forma a criar competencias
+	Competencia:
+		E uma ativiade que a organizacao faz bem
+	Competencias centrais: Atividades que a organizacao faz melhor do que os seus concorrentes
+		Base para acrescentar valor aos produtos que disponibiliza aos seus clientes
+
+Modelo de cadeira de valor
+	Cada empresa desenvolve internamente um conjunto de atividades
+	Analise de cadeia de valor e uma maneira de agrupar essas atividades
+
+	Atividade primarias
+		Principais na criacao de valor para o cliente
+			Criacao fisica do produto, venda, distribuicao e servico pos venda
+
+SWOT matrix
+	Strenght, weakness, opportunities, threats
+	Uma analise interna e externa
+	Resultado e resumido numa matriz e serve com base para a formulacao de estrategia
+		A empresa pode perseguir as oportunidades que melhor se ajustem oas pontos fortes da empresa
+		nao deve perseguir uma determinada oportunidade, a menos que ja possua ou possa adquirir os recursos necessarios para ter sucesso
+		Uma empresa pode usar os seus pontos fortes para tentar minimizar uma ameaca
+
+6.3 Formulacao de estrategia
+	Estrategia ao nivel corporativo
+		Em que negocio estamos ou queremos estar
+	Estrategia ao nivel de negocio
+		Dentro de cada negocio como devemos competir?
+			Preco, qualidade, foco
+		COmo construir vantagem competitiva sustentavel
+	Estrategia ao nivel financeiro
+		Como deve em detalhe cada area funcional apoiar a estrategia ao nivel do negoico
+	Estrategia ao nivel operacional
+
+estrategia a nivel corporativo
+	Principais estrategias ao nivel corporativo
+		Concentracao numa so industria ou divesificacao para outras atividades
+		Integracao vertical
+		Internacionalizacao
+	Concentracao vs diversificacao
+		Como diversificar? Relacionado ou nao relacionado?
+		Como capturar sinergies entre as varias areas de negocio
+		Como se estabelecem as prioridades de invetimento e alocacao dos recursos da corporacao aos negocios mais promissores
+
+	Matriz BCG
+		Uma organizacao necessita de um portfolio de produtos com diferente taxas de crescimento e diferentes participacoes no mercado
+			Alto crescimento requer injecoes de capital para crescer
+			Produtos de baixo crescimento mas lideres de mercado geram lucros
+			Ambos sao necessarios em simultaneo
+		Stars:
+			Rapid growth and expansion, need investment
+			Big market share big growth rate
+		Question Mark:
+			New ventures, a few become stars others are scrapped
+			Small market share big growth rate
+		Milking cow:
+			Milk to finance question marks and stars
+			Big makert share, small growth rate
+		Dogs:
+			No investmnet, keep if profit, consider deinvestment
+			Small marketshare, small business growth
+
+	Limitacoes de bcg:
+		Um modelo demasiado simples que utiliza apenas duas variaveis (taxa de crescimento do mercado e quota de mercado relativa) para caracterizar cada empresa/unidade estrategica de negocio
+		Apenas a unidade de negocio lider de mercado pode ser considerada star ou cash cow pelo que todos os outos concorrentes mesmo que tenham quotas de mercado muito proximas das do lider sao classificados nos quadrantes question mark ou dog
+		Uma quota de mercado leevada nao indica necessariamente que a empresa seja rentavel e que tenha capacidade de gerar cash flows
+	A matriz GE/McKinsey
+		Desenvolvida com o objetivo de ultrapassar limitacoes do modelo bcg
+		Usa dois eixos, atratividade do mercado e forca competitiva da unidade de negocio
+			Cada eixo combina atraves de uma media ponderada
+
+	Integracao Vertical:
+		Criacao de valor atraves:
+			Producao propria dos input necessarios
+				Backwards integration
+			Distribuicao propria dos produtos produzidos pela empresa
+				Forward integration
+		Detem controle de uma parte importante da cadeia de valor, mas aumento os custos
+		Vantagens:
+			Reduz custos das materias primas
+			Canal de distribuicao diminuia a dependencia de terceiros
+			Aumenta a visibilidade da empresa para o cliente final
+		Desvantagens:
+			Maior necessidade de recursos
+			Maior necessidade de coordenacao
+
+	Internacionalizacao:
+		Obter acesso a novos clientes
+		Alcancar menores custos e economias de escala
+		Explorar competencias centrais desenvolvidas no mercado domestico e estrangeiro
+		Obter recursos e capacidades disponiveis no estrangeiro
+		Espalhar o risco por um conjunto amplo de mercados
+
+		Opcoes:
+			Globalization strategy:
+				Treats the world as a single global market
+				standerdizes global product/advertising strategies
+			Transitional Strategy
+				Seeks to balance global efficiencies and local responsiveness
+				Combaines standardization and customization for product/advertising strategies
+			Export Strategy:
+				Domestically focusses
+				Exports a few domestically produced products to selected countries
+			Multidomestic strategy
+				Handles markets independently for each country
+				Adapts product/advertising to local taste and needs
+
+Estrategia a nivel do negocio
+	Como conseguir desempenho bem sucedido num negocio?
+		Construir vantagem competitiva sustentavel
+		Unificar as atividades estregicas das areas funcionais
+		Conseguir aprovacao da estrategia ao nivel do negocio pelos gestores de topo
+
+	Vantagem competitiva
+		Quando numero consideravel de clientes prefere os seus produtos/servicos aos dos oferecidods pelos concorrentes 
+		Temos 5 estrategias genericas visando a obtencao de vantagens competitivas que se pretendem sustentaveis
+
+		Lideranca de baixo custo:
+			Agressivamente conseguir custos mais baixos que a competicao
+			Usando abordagens dificeis de serem copiadas
+		Diferenciacao:
+			Dinstinguir os produtos/servicos da firma dos da concorrencia
+			Captar a preferencia dos clientes
+		Focused differentiation:
+			Servir so um segmento de mercado e ser a organizacao mais diferenciada nesse mercado
+		Focused low cost:
+			Servir so um segmento e ser a oferta mais barata
+		Best cost provider:
+			Diferenciacao e custo baixo, value for money
+
+Estrategia ao nivel funcional e ao nivel operacional
+	Estrategia ao nivel funcional
+		Especifica como os objetivos funcionar vao ser antigidos
+			Estrategia de marketing, de producao, financeira, estegia de atendimento ao cliente estrategia de desenvolvimento de produto
+	Estrategia ao nivel operacional
+		Detalah como deve cada unidade operacional chave (fabricas, centros de distribuicao e atividade especifica importante (campanha de publicidade, gestao de marcas) apoiar a respectiva estrategia funcional

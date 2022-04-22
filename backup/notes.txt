@@ -1,0 +1,145 @@
+Falta fazer:
+    taxas de atualização
+
+
+
+
+
+
+[[' Rubrica/Periodo                                                  ', 1, 2, 3, 4, 5, 6, 0], #ja está certo
+[' (-) Despesas de Investimento                                     ', -700000, 0, 0, 0, 0, 0, 0], #cert0
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 0, 0], 
+[' CashFLow do Investimento(=1+2)                                   ', -700000, 0, 0, 0, 0, 0, 0], 
+[' Vendas                                                           ', 0, 200000, 400000, 800000, 1600000, 1600000, 0], #casa a mais 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80000, -80000, -80000, -80000, -80000, 0], #certo
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120000, -120000, -120000, -120000, -120000, 0], #certo
+[' Custos Variavéis - Fabrico                                       ', 0, -80000, -160000, -320000, -640000, -640000, 0], #certo
+[' Custos Variáveis - Administração                                 ', 0, -20000, -40000, -80000, -160000, -160000, 0], 
+[' Depreciações + Amortizações                                      ', -140000.0, -140000.0, -140000.0, -140000.0, -140000.0, -140000.0, 0], #retirar 1 casa
+[' Resultado Operacional(EBIT)                                      ', -140000.0, -240000.0, -140000.0, 60000.0, 460000.0, 460000.0, 0], #certo
+[' Resultado Líquido[EBIT x (1-t)]                                  ', -105000.0, -180000.0, -105000.0, 45000.0, 345000.0, 345000.0, 0], #certo
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', -245000.0, -320000.0, -245000.0, -95000.0, 205000.0, 205000.0, 0], #ver depois amortizações
+[' CFTotal  = CFInvestimento + CFExploração                         ', -945000.0, -320000.0, -245000.0, -95000.0, 205000.0, 205000.0, 0], #ver depois amortizações
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -859090.9090909091, -264462.8099173553, -184072.1262208865, -64886.2782596817, 127288.87122712677, 115717.15566102431, 0], 
+[' CFAcumulado                                                      ', -859090.9090909091, -1123553.7190082644, -1307625.845229151, -1372512.1234888327, -1245223.252261706, -1129506.0966006815, 0]]
+
+
+[[' Rubrica/Periodo                                                  ', 0, 1, 2, 3, 4, 5],  
+[' (-) Despesas de Investimento                                     ', -700, 0, 0, 0, 0, 0],  
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 5.0], valor residual mal calculado
+[' CashFLow do Investimento(=1+2)                                   ', -700, 0, 0, 0, 0, 5.0], 
+[' Vendas                                                           ', 0, 200, 400, 800, 0, 1600000], 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80, -80, -80, -80, -80], 
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120, -120, -120, -120, -120], 
+[' Custos Variavéis - Fabrico                                       ', 0, -80, -160, -320, -640, -640], 
+[' Custos Variáveis - Administração                                 ', 0, -20, -40, -80, -160, -160], 
+[' Depreciações + Amortizações                                      ', 0, -140.0, -140.0, -140.0, 0, 0], #falta 2 casas
+[' Resultado Operacional(EBIT)                                      ', 0, -240.0, -140.0, 60.0, -1000, 1599000], 
+[' Resultado Líquido[EBIT x (1-t)]                                  ', 0.0, -180.0, -105.0, 45.0, -750.0, 1199250.0], 
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', 0.0, -320.0, -245.0, -95.0, -750.0, 1199250.0], 
+[' CFTotal  = CFInvestimento + CFExploração                         ', -700.0, -320.0, -245.0, -95.0, -750.0, 1199255.0], 
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -636.3636363636363, -264.46280991735534, -184.0721262208865, -64.8862782596817, -465.6909922943662, 676948.1829866426], 
+[' CFAcumulado                                                      ', -636.3636363636363, -900.8264462809916, -1084.898572501878, -1149.7848507615597, -1615.475843055926, 675332.7071435867]]
+
+
+[[' Rubrica/Periodo                                                  ', 0, 1, 2, 3, 4, 5], #
+[' (-) Despesas de Investimento                                     ', -700, 0, 0, 0, 0, 0], #
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 145.0], #erro no calc
+[' CashFLow do Investimento(=1+2)                                   ', -700, 0, 0, 0, 0, 145.0], 
+[' Vendas                                                           ', 0, 200, 400, 800, 1600, 1600], 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80, -80, -80, -80, -80], 
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120, -120, -120, -120, -120], 
+[' Custos Variavéis - Fabrico                                       ', 0, -80, -160, -320, -640, -640], 
+[' Custos Variáveis - Administração                                 ', 0, -20, -40, -80, -160, -160], 
+[' Depreciações + Amortizações                                      ', 0, 140.0, 140.0, 140.0, 0, 0], #faltam os dois ultimos
+[' Resultado Operacional(EBIT)                                      ', 0, 40.0, 140.0, 340.0, 600, 600], #errado totalmente devido aos custos variaveis
+[' Resultado Líquido[EBIT x (1-t)]                                  ', 0.0, 30.0, 105.0, 255.0, 450.0, 450.0], 
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', 0.0, 170.0, 245.0, 395.0, 450.0, 450.0], 
+[' CFTotal  = CFInvestimento + CFExploração                         ', -700.0, 170.0, 245.0, 395.0, 450.0, 595.0], 
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -636.3636363636363, 140.49586776859502, 184.0721262208865, 269.79031486920286, 279.41459537661973, 335.86198838199743], 
+[' CFAcumulado                                                      ', -636.3636363636363, -495.86776859504124, -311.79564237415474, -42.00532750495188, 237.40926787166785, 573.2712562536653]]
+
+[[' Rubrica/Periodo                                                  ', 0, 1, 2, 3, 4, 5], certo
+[' (-) Despesas de Investimento                                     ', -700, 0, 0, 0, 0, 0], certo
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 75.0], certo
+[' CashFLow do Investimento(=1+2)                                   ', -700, 0, 0, 0, 0, 75.0], certo
+[' Vendas                                                           ', 0, 200, 400, 800, 1600, 1600], certo 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80, -80, -80, -80, -80], certo
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120, -120, -120, -120, -120], certo
+[' Custos Variavéis - Fabrico                                       ', 0, -80, -160, -320, -640, -640], certo
+[' Custos Variáveis - Administração                                 ', 0, -20, -40, -80, -160, -160], certo
+[' Depreciações + Amortizações                                      ', 0, -140.0, -140.0, -140.0, -140.0, -140.0], certo
+[' Resultado Operacional(EBIT)                                      ', 0, -240.0, -140.0, 60.0, 460.0, 460.0], certo
+[' Resultado Líquido[EBIT x (1-t)]                                  ', 0.0, -180.0, -105.0, 45.0, 345.0, 345.0], certo
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', 0.0, -40.0, 35.0, 185.0, 485.0, 485.0], certo
+[' CFTotal  = CFInvestimento + CFExploração                         ', -700.0, -40.0, 35.0, 185.0, 485.0, 560.0], certo
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -636.3636363636363, -33.05785123966942, 26.296018031555214, 126.35748924253804, 301.1468416836902, 316.10540083011523], errado
+[' CFAcumulado                                                      ', -636.3636363636363, -669.4214876033056, -643.1254695717504, -516.7679803292124, -215.6211386455222, 100.48426218459304]] errado
+
+[[' Rubrica/Periodo                                                  ', 0, 1, 2, 3, 4, 5], 
+[' (-) Despesas de Investimento                                     ', -700, 0, 0, 0, 0, 0], 
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 75.0], 
+[' CashFLow do Investimento(=1+2)                                   ', -700, 0, 0, 0, 0, 75.0], 
+[' Vendas                                                           ', 0, 200, 400, 800, 1600, 1600], 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80, -80, -80, -80, -80], 
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120, -120, -120, -120, -120], 
+[' Custos Variavéis - Fabrico                                       ', 0, -80, -160, -320, -640, -640], 
+[' Custos Variáveis - Administração                                 ', 0, -20, -40, -80, -160, -160], 
+[' Depreciações + Amortizações                                      ', 0, -140.0, -140.0, -140.0, -140.0, -140.0], 
+[' Resultado Operacional(EBIT)                                      ', 0, -240.0, -140.0, 60.0, 460.0, 460.0], 
+[' Resultado Líquido[EBIT x (1-t)]                                  ', 0.0, -180.0, -105.0, 45.0, 345.0, 345.0], 
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', 0.0, -40.0, 35.0, 185.0, 485.0, 485.0], 
+[' CFTotal  = CFInvestimento + CFExploração                         ', -700.0, -40.0, 35.0, 185.0, 485.0, 560.0], 
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -636.3636363636363, -33.05785123966942, 26.296018031555214, 126.35748924253804, 301.1468416836902, 316.10540083011523], 
+[' CFAcumulado                                                      ', -636.3636363636363, -669.4214876033056, -643.1254695717504, -516.7679803292124, -215.6211386455222, 100.48426218459304]]
+
+[[' Rubrica/Periodo                                                  ', 0, 1, 2, 3, 4, 5], 
+[' (-) Despesas de Investimento                                     ', -700, 0, 0, 0, 0, 0], 
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 75.0], 
+[' CashFLow do Investimento(=1+2)                                   ', -700, 0, 0, 0, 0, 75.0], 
+[' Vendas                                                           ', 0, 200, 400, 800, 1600, 1600], 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80, -80, -80, -80, -80], 
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120, -120, -120, -120, -120], 
+[' Custos Variavéis - Fabrico                                       ', 0, -80, -160, -320, -640, -640], 
+[' Custos Variáveis - Administração                                 ', 0, -20, -40, -80, -160, -160], 
+[' Depreciações + Amortizações                                      ', 0, 0, 0, 0, 0, 0], 
+[' Resultado Operacional(EBIT)                                      ', 0, -100, 0, 200, 600, 600], 
+[' Resultado Líquido[EBIT x (1-t)]                                  ', 0, -75.0, 0, 200, 600, 600], 
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', 0, -75.0, 0, 200, 600, 600], 
+[' CFTotal  = CFInvestimento + CFExploração                         ', -700, -75.0, 0, 200, 600, 675.0], 
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -700.0, -68.18181818181817, 0.0, 150.2629601803155, 409.8080732190423, 419.1218930649296], 
+[' CFAcumulado                                                      ', -700.0, -768.1818181818181, -768.1818181818181, -617.9188580015026, -208.1107847824603, 211.0111082824693]]
+
+[[' Rubrica/Periodo                                                  ', 0, 1, 2, 3, 4, 5], 
+[' (-) Despesas de Investimento                                     ', -700, 0, 0, 0, 0, 0], 
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 75.0], 
+[' CashFLow do Investimento(=1+2)                                   ', -700, 0, 0, 0, 0, 75.0], 
+[' Vendas                                                           ', 0, 200, 400, 800, 1600, 1600], 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80, -80, -80, -80, -80], 
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120, -120, -120, -120, -120],
+[' Custos Variavéis - Fabrico                                       ', 0, -80, -160, -320, -640, -640], 
+[' Custos Variáveis - Administração                                 ', 0, -20, -40, -80, -160, -160], 
+[' Depreciações + Amortizações                                      ', 0, -140.0, -140.0, -140.0, -140.0, -140.0],
+[' Resultado Operacional(EBIT)                                      ', 0, -240.0, -140.0, 60.0, 460.0, 460.0],
+[' Resultado Líquido[EBIT x (1-t)]                                  ', 0, -180.0, -105.0, 60.0, 460.0, 460.0], 
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', 0, -40.0, 35.0, 200.0, 600.0, 600.0], 
+[' CFTotal  = CFInvestimento + CFExploração                         ', -700, -40.0, 35.0, 200.0, 600.0, 675.0], 
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -700.0, -36.36363636363636, 28.92561983471074, 150.2629601803155, 409.8080732190423, 419.1218930649296], 
+[' CFAcumulado                                                      ', -700.0, -736.3636363636364, -707.4380165289257, -557.1750563486102, -147.36698312956787, 271.75490993536175]]
+
+[[' Rubrica/Periodo                                                  ', 0, 1, 2, 3, 4, 5], 
+[' (-) Despesas de Investimento                                     ', -700, 0, 0, 0, 0, 0], 
+[' (+) Valor Residual do Investimento                               ', 0, 0, 0, 0, 0, 75.0], 
+[' CashFLow do Investimento(=1+2)                                   ', -700, 0, 0, 0, 0, 75.0], 
+[' Vendas                                                           ', 0, 200, 400, 800, 1600, 1600], 
+[' Custos fixos - Gastos Pessoal                                    ', 0, -80, -80, -80, -80, -80], 
+[' Custos fixos - Manutenção, Seguro e Energia                      ', 0, -120, -120, -120, -120, -120], 
+[' Custos Variavéis - Fabrico                                       ', 0, -80, -160, -320, -640, -640], 
+[' Custos Variáveis - Administração                                 ', 0, -20, -40, -80, -160, -160], 
+[' Depreciações + Amortizações                                      ', 0, -140.0, -140.0, -140.0, -140.0, -140.0], 
+[' Resultado Operacional(EBIT)                                      ', 0, -240.0, -140.0, 60.0, 460.0, 460.0], 
+[' Resultado Líquido[EBIT x (1-t)]                                  ', 0.0, -180.0, -105.0, 45.0, 345.0, 345.0], 
+[' CFExploração = (Depreciações + Amortizações) + Resultado Líquido ', 0.0, -40.0, 35.0, 185.0, 485.0, 485.0], 
+[' CFTotal  = CFInvestimento + CFExploração                         ', -700.0, -40.0, 35.0, 185.0, 485.0, 560.0], 
+[' CFAtualizado  = CFTotal * Fator Atualização[1/(1+r)**n]          ', -700.0, -36.36363636363636, 28.92561983471074, 138.99323816679185, 331.2615258520592, 347.71594091312676], 
+[' CFAcumulado                                                      ', -700.0, -736.3636363636364, -707.4380165289257, -568.4447783621338, -237.18325251007457, 110.53268840305219]]

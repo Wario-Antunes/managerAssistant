@@ -1,0 +1,409 @@
+Capitulo 7 -> Marketing
+Conceitos Fundamentais     
+    marketing is the activity, set of institutios and processes for creatring communicating, delivering, and exchanging offerings that have value for customers, clients, partnets, and society at large
+        
+    Marketing Mix  
+        Produto 
+        Preco
+        Distribuicao 
+        Comunicacao/Promocao 
+        
+    Conceitos:
+        Necessidades (Needs) -> Alimentacao, vestuario...
+        Desejos      (Wants) -> Hamburguer
+        Produtos             -> Bens, servicos, etc...
+        Mercados             -> Conjunto de pessoas ou organizacoes que compra ou potencialmente comprara
+
+    Filosofias das organizacoes na abordagem ao mercado
+        Conceito da producao:
+            Os consumidores priviligiam produtos largamente disponiveis e baratos
+                Eficiencia, custos baixos, producao em massa
+        Conceito do Produto
+            Os consumidores preferem produtos com a melhor qualidade, desempenho e inovacao
+                Excelencia, qualidade
+        Conceito da Venda:
+            Os consumidores exibem algum desinteresse em consumir o que lhes e proposto
+                Proatividade, forca de vendas promocao
+        Conceito de Marketing
+            O centro da atencao devem ser os consumidores, e a satisfacao das suas necessidades
+                Encontrar um produto adaptado as necessidades do cliente   
+
+Comportamento do Consumidor 
+    Caracteristicas e Psicologia do consumidor 
+        Culturais 
+            Cultura, Subcultura, Classe Social 
+        Sociais
+            Gruopos de Referencia; Familia; Papeis e outros          
+        Pessoais 
+            Idade e estadio do ciclo de vida da familia 
+            Ocupacao e Situacao economica 
+            Personalidade e Autoconceito 
+            Estilo de Vida 
+        Psicologicas 
+            Motivacao (necessidades)
+            Percepcao (beneficios percebidos)
+            Aprendizagem (memoria; experiencias passadas)
+            Crenças e Atitudes (emocoes)
+        
+    Processo de decisao do comprador (situacao de compra nova)
+        
+        1. Reconhecimento do problema ou necessidade
+            Motivacao desencadeada por Estimulus internos
+                Fome
+            Tambem pode ser por estimulus externos
+        2. Pesquisa de informacao
+            Fontes: Pessoais, comerciais, publicas, experiencias
+        3. Avaliacao de alternativas
+            Atributos e seu grau de importancia
+            Procedimento de avaliacao
+                comprando os produtos com base nos atributos e na importancia que damos a cada um daqueles
+        4. Decisao de compra
+            Intencao vs Compra: Atitudes de terceiros, situacoes inesperados
+                Sugestao numa loja
+        5. Avaliacao pos compra
+            Expectativa vs Percecao de Desempenho
+                Satisfacao/insatisfacao
+
+    Mercados Organizacionais 
+        Processo de decisao de compra organizacional 
+            Processo pelo qual organizacoes formais estabelecem
+            a necessidade da compra de produtos e servicos e identificam, 
+            avaliam e escolhem entre marcas e fornecedores alternativos 
+        Os mercados organizacionais incluem 
+            Os mercados industriais 
+            Os mercados de revenda 
+            Os mercados governamentais 
+
+    Algumas caracteristicvcas dos Mercados Organizacionais "Tipicos" 
+        Estrutura dos mercados 
+            Numero relativamente reduzido de clientes de grande dimensao 
+            Frequentemente concentrados geografiacamente 
+        Caracteristicas da Procura 
+            Derivada (da procura do produto final)
+            Flutuante (a variacao da procura do produto final causa maior volatilidade da procura dos elementos a montante)
+        Processo de decissao 
+            Complexo, Profissional, e Formalizado (necessidade de responsabilizacao)
+            
+Segmentacao, Targeting e Posicionamento (STP)
+    Marketing diferenciado vs indiferenciado
+        
+        Marketing indiferenciado ou de massas
+            Mais antigo
+            Desenvolveu se com a producao em massa
+            Promovendo a venda do mesmo produto a todos os clientes
+            Com o tempo foram-se oferencdo algumas variantes dos produtos
+        
+        Marketing diferenciado (segmentado) 
+            Permite a diferenciacao de um ou varios elementosd do Marketing mix para cada um dos diferentes grupos de clientes
+            Abordagem mais precisa do que o marketing de massas sabendo-se, ou melhor, escolhendo-se antecipadamente a quem queremos que a oferta interesse
+            No limite traduz-se no marketing one to one com adaptacao a cada cliente
+
+    Segmentacao targeting e Posicionamento STP
+        Segmentacao (do mercado)
+            1. Identificar variaveis de Segmentacao apropriados e segmentar o mercado
+            2. Desenvolver perfis dos segmentos resultantes 
+        Targeting (escolha dos segmentos-alvo)
+            3. Avaliar atratividade de cada segmento
+            4. Selecionar segmentos alvos
+        Posicionamento (do produto)
+            5. Identificar para cada segmento alvo, conceitos de posicionamento possiveis
+            6. Selecionar, desenvolver e comunicar conceito de posicionamento escolhido
+
+    Segmentacao
+        Uma empresa procura perceber grupos de consumidores com maiores semelhancas entre si e com substanciais diferencas em relacao aos membros de outros segmentos 
+        Cada segmento que a empresa vier a considerar como segmento-alvo sera tratado de forma diferente de outro segmento-alvo 
+        Para ser eficaz uma boa segmentacao exige que cada segmento tenha certas caracteristicas; em particular devera ser:
+            Substancial (para que valha a pena considera-lo um segmento e nao parte de outro maior), e
+            Diferenciavel (se as caracteristicas relevantes dos consumidaores nao sao suficientemente diferentes das dos elementos de outro segmento, entao nao se justifica que sejam abordados separadamente, devendo ser preparada a mesma oferta para ambos) 
+        
+    Bases de segmentacao em mercados de bens de consumo
+        1. Segmentacao por caracteristicas dos consumidores
+            Geograficas
+                Pais/ragiao, dimensao dos agregados populacionais, densidade populacional, clima
+            Demografias
+                Idade, sexo, classe social, ciclo de vida da familia, rendimento, ocupacao, educacao, religao, raca, nacionalidade
+            Psicograficas
+                Personalidade (extrovertido, impulsivo, conservador, timido,  rude...), atitudes, valores, atividades, interesses, opinioes, estilos de vida
+        
+        2. Segmentacao por comportamento dos consumidores
+            Por ocasioes
+                viagens de aviao: ferias vs negocio
+            por beneficioes pretendidos
+                Mais significativa conceptualmente
+                    qualidade, servico, economia, velocidade. funcionais vs psicologicos
+            por grau de leadade para com marcas
+            por taxa de utilizacao do tipo de produto
+                nao utilizador, utilizador ocasional, utilizador intensivo...
+            por estado de prontidao
+                Nao consciente, consciente, informado, interessado, com desejo, com intecao de compra
+
+    Targeting (Escolha dos segmentos-alvo) 
+        (Escolha dos segmentos que iremos servir)
+        Avaliacao da atratividade do segmentos 
+            Dimensao e crescimento do segmento 
+            Atratividade estrutural do segmento (por exemplo com a analise de Porter)
+            Compatibilidade com os objetivos e recursos da enpresa 
+   
+        Escolha de alvos
+            Marketing concentrado 
+                Selecao de um so segmento
+            Especializacao seletiva
+                cobertura de varios segmentos atraentes - podem ser relacionados ou nao             
+            Cobertura total do segmentos do mercado
+
+        Utilizacao de marrketing diferenciado na cobertura de mais do que um segmentoesta associado a utilizacao de programas
+            produtos + preco + comunicacao + distribuicao
+        adequados para cada segmento e portanto diferentes para os diferentes segmentos
+
+    Posicionamento 
+        Conceito de Posicionamento 
+            Forma como um produto e defenido pelos pelos consumidores em atributos importantes  
+            Lugar (posicao) que o produto ocupa na mente do consumidor em e como se deiferencia em relacao a produtos que com ele concorrem 
+            
+        Formas de diferenciacao mais frequentes
+            Produto
+                Atributos/capacidades adicionais, desempenho, conformidade, durabilidade, fiabilidade, esti,o, design
+            Servicos
+                Entrega, instalacao, formacao do cliente, consultoria, reparacao
+            Pessoal
+                Competencia, cortesia/simpati, credibilidade, fiabilidade, comunicacao
+            Imagem
+                Simbolos, documentos e medias, atmosfera/ambiente, eventos
+
+Marketing mix 
+    Produto 
+        Defenicao de porduto em Marketing 
+            Tudo que pode ser oferecido a um mercado para aquisicao, atencao, uso ou consumo e , que possa satisfazer uma necessidade de grupo
+            Inclui:
+                bens fisicos, servicos, eventos e experiencias, lugares, pessoas, informacao, ideias
+
+        Classificacao de produtos
+            Quanto a durabilidade ou tangibilidade os produtos podem-se classificar em:
+                Bem nao duradouros, bem duradouros, servicos
+        Classificacao de bens de consumo
+            Quanto aos habitos de compra dos consumidores, os bens de consumo podem-se classificar em:
+                Bens de conveniencia
+                Shopping goods, bens de comparacao (sujeitos a esforco de comparacao)
+                Speciality goods, bens de especialidade (sujeitos a esforco especialmente grande)
+                Bens nao procurados
+                
+        Classificacao de produtos industriais 
+            Bens de Capital 
+                Instalacoes e equipamentos; nao integram o produto final
+            Partes e materiais 
+                Materias-primas, componentes e produtos semi-acabados que integram o produton final
+            Fornecimentos e servicos      
+                bens que facilitam a producao 
+        Servicos 
+            Defenicao 
+                Qualquer ato ou desempenho, que uma parte pode oferecer a outra, que e essencialmente intangivel e nao resultya na posse de algo. A sua producao pode ou nao estar a um produto fisico. (Kotler) 
+            Podemos considerar um continuo 
+                Bens intangiveis puros 
+                    materias-primas, ferro ...
+                Bens tagiveis acompanhados de servicos 
+                    automoveis 
+                Hibridos 
+                    restaurantes 
+                Servicos acompanhados perifericamente de bens fisicos e servicos acessorios 
+                    servicos medicos
+                Servicos Puros 
+                    consultoria 
+                 
+           Caracteristicas dos servicos:
+                Servicos partilham caracteristicas que condicionam/determinam o marketing mix apropriado
+                    Intangibilidade
+                        Oferecer um ramo de flores - impacto imediato
+                        Oferecer um fim de semana de descanso - tangibilizado com elementos nao necessarios operacionalmente
+                    Inseparabilidade/Simultaneidade 
+                        Necessidade de estar presente na altura e local da prestacao do servico 
+                    Variabilidade/heterogeneidade 
+                        Atendimento diferente por duas pessoas ou pela mesma em diferentes alturas 
+                    Perecibilidade 
+                        Um aviao levanta voo com lugares nao preenchidos - nao e possivel armazenar o que nao foi comprado    
+
+    Preco
+        O preco e o unico elemento do marketing mix que produz receitas
+            Todos os outros representam despesas
+        O preco e somente um entre mutios outros fatores que afeta a escolha do produto a comprar
+            A concorrencia com base no preco pode ser uma trategia indesejavel
+            Outros fatores sao frequentemente mais importantes
+            
+        
+        Alguns fatores externos que afetam as decisoes de preco  
+            Sensibilidade ao preco, por parte dos consumidores -> Muito dependente do segmento e de fatores como, por exemplo, a situacao economica 
+            Situacao competitiva
+            Percecao do comprador da relacao preco/valor
+                Dependente do restante marketing mix e da concorrencia
+                Efeito sinalizador do preco (qualidade)
+                Efeitos psicologicos (8.99. 3.45, sao associados a produtos mais baratos)
+        
+        Fatores condicionantes do preoc
+            Valor Percetual para o cliente   --> Preco maximo
+            Custos                           --> Preco minimo
+            
+            A definicao do preco de um produto entre os limites minimo emaximo depende dos precos da concorrencia, do segmento de mercado e do posicionamente pretendido
+            Deve haver concorrencia entre a politica de precos e os restantes elementos do marketing mix
+                Devem operacionalizar a estrategia escolhida de segmentacao, targeting e posicionamento
+    
+        Preco de novos Produtos 
+            Duas estrategias mais extremas 
+                Desnatacao 
+                Penetracao 
+            
+        Preco de produtos ja existentes 
+            Caracteristicas dos produtos a considerar na defenicao do preco - incluindo a sua perecibilidade; grau de diferenciacao do produto; estadio do ciclo de vida em que se encontra 
+            Importancia da defenicao de precos de gamas e de linhas de produtos - em vez de produtos individuais
+        
+        Adaptacao do preco
+            Precos promossionais:
+                Loss leades, acontecimentos especiais
+            Precos discriminatorios
+                Por segmentos de clientes (pensionistas)
+                Por data/hora (epoca do ano)
+            Precos de gama
+                Precos por linha de produtos, precos de opcoes
+            Preco base e descontos
+                Descontos financeiros, de quantidade, funcionais,m sazonais, pronto de pagamento
+    Distribuicao 
+        distribution is all about getting your product/service to the rigth people at the right time with special considerationfor profit and effectiveness 
+
+        Canais de distribuicao (CD) 
+            intermediarios entre a empresa e os destinarios finais do bem ou servico 
+            Conjunto de individuos e firmas que, assumindo ou nao titularidade do bem ou servico, assistem na sua transferencia para o consumidor  
+            Os CD nao implicam necessariamente intermediacao: 
+                A distribuicao pode ser feita pela propria empresa que pretende vender, ou por empresas do grupo a que pertence 
+        Porque usar intermediarios
+            O uso de intermediarios reduz o controlo sobre passos importantes do processo de marketing
+            Contudo, na maior parte das situacoes empresariais, o uso de intermediariose mais eficiente na disponibilizacao de produtos aos mercados alvo devido a:
+                Economias de escala
+                    PAra o vendedor e para o comprador
+                Especializacao
+                    Diferentes dimensoes, tipos de empresa e foco
+                Contactos
+                    Frequentemente ligados a presenca local ou em meios que nao sao os meios primariosde acao da empresa produtora
+                Experiencia 
+                    Em atividades que nao correspondem as executadas pelas empresa produtora
+       
+        Os circuitos de distribuicao podem ter varios niveis  
+            Considerem a repercussao sobre os precos e o controlo pelas empresas nos seguintes casos:
+                Marketing direto (nivel zero)
+                    Venda do produtor ao consumidor 
+                Um nivel 
+                    Produtor-retalhista-consumidor
+                Dois niveis
+                    Produtor-grossista-retalhista-consumidor
+                Tres niveis 
+                    Produtor-distribuidor-grossita-retalhista-consumidor 
+        
+        Numero e tipo de intermediarios em cada nivel de canal 
+            Distribuicao exclusiva 
+                Apenas uma ou muito poucas lojas de uma pequena cadeia - restrigindo o numero por area geografica. Por exemplo venda de produtos Gucci atraves das lojas daquela marca 
+            Distribuicao seletiva 
+                Apenas alguns intermediarios, para manter controlo - por exemplo sobre o tipo de servico. Por exemplo certos modelos de televisores podem ser vendidos apenas atraves de certas cadeias da lojas 
+            Distribuicao intensiva 
+                Em muitos pontos de distribuicao frequentemente associada a bens de conveniencia, tais como refrigerantes, massas, arroz, jornais 
+    
+    Comunicacao/Promocao
+        Conjunto de atividades desenvolvidas pela a empresa para comunicar com os seus clientes - atuais e potenciais
+        Por vezes, em linguagem corrente, usa-se de modo impreciso 'Promocao' como sinonimo de marketing (por exemplo, chamando 'campanha de marketing' a uma campanha de publicidade)
+        Nota-se que se o marketing e bem mais amplo que a comunicacao/promocao, tambem esta e bem mais do que apenas a publicidade, promocao de vendas ou forca de vendas
+        
+        Principais componentes
+            Publicidade; 
+                Forma paga de apresentacao de de comunicacao nao pessoal de organizacoes, ideias, bens ou servicos, efetuada por um patrocinaodr identificado, para uma audiencia alvo, atraves de um emio de comunicacao de massa
+            Promocao de vendas
+                Incentivos de curto prazo e temporais destinaods a encorajar experimentacao ou compra (ou recompra) de um bem ou servico
+            Forca de vendas
+                Interacao pessoal com compradores (correntes e potenciais)
+            Marketing direto
+                Comunicacao ou solicitacao de direta da atuacao de clientes atuais e potenciais especificos utilizando o correio, telefone, email ou outros meios nao pessoais
+            Online, social media, mobile marketing
+                Atividades online e programas desenhados para envolver clientes atuais ou potenciais: websites, comunidades online, blogs e redes sociais como Facebook e Twitter, mensagens de texto e apps para smartphoners e tablets
+            Relacoes publicas
+                Programas destinados a promover e/ou proteger a imagem da organizacao ou dos seus produtos
+            Eventos e experiencias
+                Eventos e experiencias sao atividades e programas patrocinaods e concebidos para criar interacoes diarias ou especiais com marcas
+                
+        A resposta (comportamental) pretendida pela acao de comunicacao e condicionada pelo estado do comprador 
+            DO lado do marketer 
+                (estagios do comprador)
+
+            Obter atencao   
+                estadios cognitivos 
+                    consciencia
+                    conhecimento
+            
+            Levantar Interesse 
+                estadio de comportamento 
+                    interresse (valor absoluto)
+
+            Suscitar desejo 
+                estadio de comportamento
+                    preferencia (valor relativo)
+            
+            Causar acao 
+                estadios de comportamento  
+                    conviccao 
+                    compra
+
+
+    Estrategias Push e Pull 
+        Push 
+            Promotor promove agressivamente 
+                \/
+            Grossista promove agressivamente 
+                \/
+            Retalhista promove agressivamente
+                \/
+            Consumidor 
+        Pull 
+            Consumidor ----------------------------
+                \/                                /\
+            Retalhista                            /\
+                \/                                /\
+            Grossista                             /\
+                \/                                /\
+            Produtor promove agressivamente       /\
+                \/                                /\
+                 -------------------------------- /\   
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+        
+
+
+        
+         
